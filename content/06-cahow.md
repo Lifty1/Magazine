@@ -4,7 +4,7 @@ title: Night Voices of the Isle of Devils
 standfirst: The cahow was eaten to oblivion by Bermuda's first colonists and missing for three hundred years. A fifteen-year-old boy was there when it was found, and then he spent his life bringing it back.
 ---
 
-Spanish sailors in the sixteenth century gave Bermuda a wide berth. The reefs were bad enough, but the islands were also loud. At night, the story goes, the air above them was full of wailing and moaning, and they became known as the Isle of Devils. Bermudians will tell you the devils were birds: a gadfly petrel the size of a pigeon that nested in burrows on the islands in huge numbers and called to its mate in the dark with a cry that sounded, to English ears, like *cahow*.
+Spanish sailors in the sixteenth century regarded Bermuda with suspicion. The reefs were bad enough, but the islands were also loud. At night, the story goes, the air above them was full of wailing and moaning, and they became known as the Isle of Devils. Bermudians will tell you the devils were birds: a gadfly petrel the size of a pigeon that nested in burrows on the islands in huge numbers and called to its mate in the dark with a cry that sounded, to English ears, like *cahow*.
 
 The Spaniards did learn to stop and eat them. In 1603 one Spanish captain, Diego Ramírez, wrote that his men could take up to four thousand birds in a night. The hogs they released on the islands to provide fresh meat for later voyages rooted the birds' burrows out of the ground.
 
@@ -14,7 +14,7 @@ In 1616 the governor issued a proclamation "against the spoyle and havocke of th
 
 ## The bird in the lighthouse
 
-In June 1935 an unfamiliar seabird flew into the lighthouse at St David's, at the eastern end of Bermuda, and was killed. The naturalist William Beebe, who was working on the islands, sent it to Robert Cushman Murphy, a seabird specialist at the American Museum of Natural History in New York. Murphy identified it as a cahow. It was a single dead bird, and it could have come from anywhere. But if it had come from Bermuda, the cahow had to be breeding somewhere nearby.
+In June 1935 an unfamiliar seabird flew into the lighthouse at St David's, at the eastern end of Bermuda, and was killed. The naturalist William Beebe, who was working on the islands, sent it to Robert Cushman Murphy, a seabird specialist at the American Museum of Natural History in New York. Murphy identified it as a cahow. It was a single dead bird, and it could have come from anywhere. But if it had come from Bermuda, the cahow would have to be breeding somewhere nearby.
 
 Murphy came to look for himself in 1951, with Louis Mowbray of the Bermuda Government Aquarium. They brought along a local boy who was mad about birds: David Wingate, fifteen years old. On 28 January 1951, on a cluster of tiny rocky islets in Castle Harbour, a sheltered bay at Bermuda's eastern end, they found cahows nesting in deep crevices in the rock. There were eighteen pairs. They were probably the whole species.
 

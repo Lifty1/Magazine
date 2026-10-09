@@ -18,7 +18,7 @@ She wrote to the one person she thought might be able to identify it: J. L. B. S
 
 When Smith finally saw her sketch, he recognised it immediately and could hardly believe what he was recognising. He cabled back: MOST IMPORTANT PRESERVE SKELETON AND GILLS = FISH DESCRIBED. It was too late for the gills. On 16 February 1939 he arrived in East London and stood in front of the mounted skin. "There was not a shadow of a doubt," he said. "It could have been one of those creatures of 200 million years ago come alive again."
 
-It was a coelacanth, a member of a group of lobe-finned fishes that turns up in rocks more than 400 million years old and was thought to have vanished at the end of the Cretaceous, 66 million years ago, along with the dinosaurs. Lobe-finned fish are closer kin to us than to a trout or a snapper: their stalked, fleshy fins are built on the same plan as the limbs of the first animals to walk on land. The coelacanth was a textbook fossil, a branch of the tree everyone assumed had been sawn off. Smith named it *Latimeria chalumnae*, after the woman who had saved it and the river off whose mouth it was caught.
+It was a coelacanth, a member of a group of lobe-finned fishes that turns up in rocks more than 400 million years old and was thought to have vanished at the end of the Cretaceous, 66 million years ago, along with the dinosaurs. Lobe-finned fishes are more closely related to us than they are to a trout or a snapper: their stalked, fleshy fins are built on the same plan as the limbs of the first animals to walk on land. The coelacanth was a textbook fossil, a branch of the tree everyone assumed had been sawn off. Smith named it *Latimeria chalumnae*, after the woman who had saved it and the river off whose mouth it was caught.
 
 ## Fourteen years of leaflets
 
@@ -26,11 +26,11 @@ A single stuffed skin, without its organs, is a frustrating thing to have discov
 
 It took until December 1952. A fisherman off Anjouan, in the Comoro Islands between Mozambique and Madagascar, brought a five-foot fish to a British trader and sea captain named Eric Hunt, who had one of Smith's leaflets and knew what he was looking at. He telegraphed Smith. Smith, terrified that the specimen would rot or be claimed by the French authorities who governed the islands, did something only a man in his state of mind would try: he tracked down the Prime Minister of South Africa, D. F. Malan, over Christmas, and talked him into lending an air force Dakota to fly to the Comoros and fetch it.
 
-The fish had only one dorsal fin where the first had two, and Smith, convinced it was something new, named it *Malania anjouanae*, after his prime minister. It was later shown to be the same species as the first, with a deformity. The French, embarrassed and furious, closed the islands to foreign coelacanth hunters.
+The new fish was missing one of its two dorsal fins, and Smith, convinced it was something new, named it *Malania anjouanae*, after his prime minister. It was later shown to be the same species as the first, with a deformity. The French, embarrassed and furious, closed the islands to foreign coelacanth hunters.
 
-The deeper embarrassment was that the fish had not really been lost. Comorian fishermen, hand-lining at night from canoes over the steep volcanic slopes, had been catching the occasional *gombessa* for a long time. It was not prized; the flesh is oily. Science had declared extinct an animal that the people who lived above it knew perfectly well.
+The deeper embarrassment was that the fish had not really been lost. Comorian fishermen, hand-lining at night from canoes over the steep volcanic slopes, had been catching the occasional *gombessa* for a long time. It was not prized; the flesh is oily. Science had written off an animal that the people who lived above it knew perfectly well.
 
-> Science had declared extinct an animal that the people who lived above it knew perfectly well.
+> Science had written off an animal that the people who lived above it knew perfectly well.
 
 ## The second species
 
@@ -48,4 +48,4 @@ A fish that lives that slowly cannot absorb much loss. The West Indian Ocean coe
 
 Courtenay-Latimer spent the rest of her working life at the East London Museum. The skin she saved is still there, the holotype of its species, the fish against which every other coelacanth is measured. She died in 2004, aged 97.
 
-It is tempting to tell the coelacanth story as the triumph of the professor: Smith, with his cables and leaflets and borrowed bomber. But the fish was found because a woman with no qualifications had persuaded a trawler crew to keep the odd things they caught, and then fought a mortuary, a cold store and a South African summer to keep it from rotting. Almost every rediscovery in this magazine began the same way: with someone who was paying attention to what other people threw back.
+It is tempting to tell the coelacanth story as the triumph of the professor: Smith, with his cables and leaflets and borrowed aeroplane. But the fish was found because a woman with no qualifications had persuaded a trawler crew to keep the odd things they caught, and then fought a mortuary, a cold store and a South African summer to keep it from rotting. Almost every rediscovery in this magazine began the same way: with someone who was paying attention to what other people threw back.

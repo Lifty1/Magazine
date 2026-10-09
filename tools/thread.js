@@ -78,7 +78,13 @@ window.flowAll = function () {
           while (best > 0 && moved < 8) { best--; if (isWord(tokens[best])) moved++; }
         }
         const [a, b] = splitAt(tokens, best);
-        n.innerHTML = a; n.classList.add('split'); const wasEnd = n.classList.contains('end'); n.classList.remove('end');
+        n.innerHTML = a; const wasEnd = n.classList.contains('end'); n.classList.remove('end');
+        { // justify the column's last line only if it is nearly full
+          const mk = document.createElement('span'); n.appendChild(mk);
+          const pr = n.getBoundingClientRect(), mr = mk.getBoundingClientRect();
+          if (mr.left - pr.left > 0.8 * pr.width) n.classList.add('split');
+          n.removeChild(mk);
+        }
         const cont = n.cloneNode(false); cont.className = (n.className.replace(/\b(split|first)\b/g, '') + ' cont').trim();
         cont.innerHTML = b; if (wasEnd) cont.classList.add('end');
         nodes.unshift(cont);

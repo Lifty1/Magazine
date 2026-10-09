@@ -105,7 +105,7 @@ def main():
               '<div class="src" style="margin-top:3mm;color:var(--muted)">Facts were checked against these sources in October 2026. Where sources disagree, the text says so or leaves the detail out. Errors are the editor’s.</div>')
     ins.append(box(FX + 15, 200, 180, 80, '<div style="border-top:0.6pt solid var(--rule);padding-top:5mm;display:grid;grid-template-columns:1fr 1fr;column-gap:8mm">'
         '<div><div class="kicker">Seen something?</div><div style="font-family:\'FD Light\';font-size:22pt;line-height:25pt;margin-top:2mm">Most rediscoveries start with someone who reported what they saw.</div></div>'
-        '<div style="font-family:\'NT\';font-size:8.6pt;line-height:12pt;padding-top:1mm">In Aotearoa New Zealand, the Department of Conservation’s hotline, <b>0800 DOC HOT</b> (0800 362 468), takes reports of threatened wildlife. '
+        '<div style="font-family:\'NT\';font-size:8.6pt;line-height:12pt;padding-top:1mm">In Aotearoa New Zealand, report sightings of threatened species to your local Department of Conservation office; for emergencies, such as wildlife being harmed, DOC’s 24-hour line is <b>0800 DOC HOT</b> (0800 362 468). '
         'A photograph, a recording, a feather or a footprint, with the date and the place, is worth far more than a description. Note it, photograph it, and leave it where it is.</div></div>'))
     ins += [ib, ib2]
     page2 = f'<section class="cpage"><div class="ctrim">{"".join(ins)}</div></section>'

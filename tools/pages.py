@@ -176,11 +176,11 @@ def build_pages(g):
     p.add(box(15, 200, 120, 60, '<p class="standfirst" style="font-size:16pt;line-height:20pt">insects. One bush. One rock. The entire wild population of a species, counted by torchlight in February 2001.</p>'))
     folio(p, 'Tree lobsters')
     p = P(17)
-    p.add(img(0, -B, W + B, 140 + B, 'balls_kav2', '50% 40%'))
-    p.add(cap(20, 142, 175, 8, '<b>Ball’s Pyramid</b>, 20 km south-east of Lord Howe Island, with a flesh-footed shearwater. Photograph: Patrick Kavanagh.'))
-    opener(p, 'phasmid', 20, 154, 175, size=40, sf_w=165, gap=4, sf_size=12.4)
+    p.add(img(20, 18, 115, 85, 'balls_kav2', '50% 45%'))
+    p.add(cap(140, 18, 55, 40, '<b>Ball’s Pyramid</b>, 20 km south-east of Lord Howe Island, with a flesh-footed shearwater. Photograph: Patrick Kavanagh.'))
+    opener(p, 'phasmid', 20, 120, 175, size=44, sf_w=165, gap=5, sf_size=13)
     xs, w = colx('right', 3)
-    for x in xs: p.add(flow('phasmid', x, 218, w, BOT - 218))
+    for x in xs: p.add(flow('phasmid', x, 190, w, BOT - 190))
     folio(p, 'Tree lobsters')
     p = P(18)
     xs, w = colx('left', 3)
@@ -195,8 +195,13 @@ def build_pages(g):
     p = P(19)
     xs, w = colx('right', 3)
     p.add(flow('phasmid', xs[0], TOP, w, BOT - TOP))
-    p.add(img(xs[1], TOP, 2 * w + 5, 236, 'balls_1965', '50% 50%'))
-    p.add(cap(xs[1], 257, 2 * w + 5, 12, '<b>Ball’s Pyramid from a boat at its base, 1965</b>, the year it was first climbed. Photograph: John Game.'))
+    p.add(img(xs[1], TOP, 2 * w + 5, 170, 'balls_1965', '50% 50%'))
+    p.add(cap(xs[1], 190, 2 * w + 5, 10, '<b>Ball’s Pyramid from a boat at its base, 1965</b>, the year it was first climbed. Photograph: John Game.'))
+    fb = ('<div class="factbox" style="height:100%"><h3><i style="text-transform:none">Dryococelus australis</i></h3>'
+          '<div class="row"><span class="y">Size</span><span>Up to about 20 cm long; wingless</span></div>'
+          '<div class="row"><span class="y">Young</span><span>Hatch green and active by day; turn black and nocturnal as they grow</span></div>'
+          '<div class="row"><span class="y">Trick</span><span>Females can reproduce without males</span></div></div>')
+    p.add(box(xs[1], 204, 2 * w + 5, 69, fb))
     folio(p, 'Tree lobsters')
     T.append(template('phasmid', body))
 
@@ -308,8 +313,8 @@ def build_pages(g):
     p.add(cap(xs[0], 104, 2 * w + 5, 10, '<b>Moa bones at the Notornis Expedition camp, Te Anau, c. 1949.</b> The expedition that went to study the rediscovered takahē also dug in a moa hunters’ cave. Archives New Zealand.'))
     p.add(flow('moa', xs[0], 120, w, BOT - 120)); p.add(flow('moa', xs[1], 120, w, BOT - 120))
     pull(p, 'moa', 1, xs[2], TOP, w, 80, size=19)
-    p.add(img(xs[2], 120, w, 120, 'moa_legbone', '40% 50%'))
-    p.add(cap(xs[2], 242, w, 24, '<b>Moa leg bone,</b> Dinornithidae. In 1839 Richard Owen was shown a fragment of a bone like this and concluded it came from a giant bird. Photograph: JC Merriman.'))
+    p.add(img(xs[2], 120, w, 80, 'moa_legbone', '40% 50%'))
+    p.add(cap(xs[2], 202, w, 30, '<b>Moa leg bone,</b> Dinornithidae. In 1839 Richard Owen was shown a fragment of a bone like this and concluded it came from a giant bird. Photograph: JC Merriman.'))
     folio(p, 'Essay')
     T.append(template('moa', body))
 
@@ -319,6 +324,11 @@ def build_pages(g):
     p.add(img(-B, -B, W + B, 150 + B, 'bff_kits', '50% 50%'))
     p.add(cap(15, 152, 175, 8, '<b>Black-footed ferret kits.</b> Photograph: US Fish and Wildlife Service, Mountain-Prairie Region.'))
     opener(p, 'ferret', 15, 166, 175, size=46, sf_w=170, gap=4, sf_size=12.6)
+    tl = [('1979', 'Declared extinct'), ('1981', 'Shep’s find, Meeteetse'), ('1987', 'Last 18 wild ferrets taken into care'),
+          ('1991', 'First release, Shirley Basin'), ('2020', 'Elizabeth Ann, a clone of Willa'), ('2024', 'A clone has kits of her own')]
+    cells = ''.join(f'<div style="border-top:1.2pt solid var(--rust);padding-top:2mm"><div class="mono" style="font-weight:600;font-size:8pt">{y}</div>'
+                    f'<div style="font-family:\'NT\';font-size:8.4pt;line-height:11pt;margin-top:1mm">{t}</div></div>' for y, t in tl)
+    p.add(box(15, 236, 175, 34, f'<div style="display:grid;grid-template-columns:repeat(6,1fr);column-gap:3mm">{cells}</div>'))
     folio(p, 'Ferret')
     p = P(39)
     xs, w = colx('right', 3)

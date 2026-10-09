@@ -1,7 +1,7 @@
 ---
 kicker: Lord Howe Island · 2001
 title: The Tree Lobsters of Ball's Pyramid
-standfirst: The rarest insect in the world spent eighty years on the side of a volcanic spike in the Tasman Sea, all of them living under a single bush.
+standfirst: For eighty years the rarest insect in the world survived on the side of a volcanic spike in the Tasman Sea, apparently all of it under a single bush.
 ---
 
 Lord Howe Island, a crescent of forest and reef about 600 kilometres off the coast of New South Wales, used to have an insect so common that people fished with it. Large, black, wingless stick insects, as long as a hand and heavy as a small bird, lived in the hollows of its trees and came out at night to eat the leaves. The islanders called them tree lobsters and used them for bait.

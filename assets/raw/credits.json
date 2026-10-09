@@ -59,16 +59,6 @@
   "size": "4016x5608",
   "note": ""
  },
- "coel_pup": {
-  "file": "coel_pup.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/23165290@N00/6670823349",
-  "title": "coelacanth and pup - smithsonian",
-  "artist": "Tim Evanson",
-  "license": "creativecommons.org/licenses/by-sa/2.0",
-  "size": "1500x1000",
-  "note": ""
- },
  "coel_head": {
   "file": "coel_head.jpg",
   "source": "Flickr",
@@ -89,16 +79,6 @@
   "size": "3072x2304",
   "note": ""
  },
- "balls_kav1": {
-  "file": "balls_kav1.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/63175631@N02/37050227970",
-  "title": "Ball's Pyramid",
-  "artist": "patrickkavanagh",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1200x800",
-  "note": ""
- },
  "balls_kav2": {
   "file": "balls_kav2.jpg",
   "source": "Flickr",
@@ -109,36 +89,6 @@
   "size": "1200x888",
   "note": ""
  },
- "balls_m1": {
-  "file": "balls_m1.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/145232592@N06/30796120502",
-  "title": "Ball's Pyramid",
-  "artist": "Martin7d2",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1280x853",
-  "note": ""
- },
- "balls_m2": {
-  "file": "balls_m2.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/145232592@N06/30277746374",
-  "title": "Ball's Pyramid",
-  "artist": "Martin7d2",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1280x853",
-  "note": ""
- },
- "balls_m3": {
-  "file": "balls_m3.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/145232592@N06/30912137355",
-  "title": "Ball's Pyramid and Wheatsheaf Island",
-  "artist": "Martin7d2",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1280x853",
-  "note": ""
- },
  "balls_1965": {
   "file": "balls_1965.jpg",
   "source": "Flickr",
@@ -147,16 +97,6 @@
   "artist": "John Game",
   "license": "creativecommons.org/licenses/by/2.0",
   "size": "1008x1500",
-  "note": ""
- },
- "balls_sb": {
-  "file": "balls_sb.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/82727312@N00/2516876537",
-  "title": "Ball's Pyramid through the mist",
-  "artist": "Steve Bittinger",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1024x768",
   "note": ""
  },
  "coel_holotype": {
@@ -205,15 +145,6 @@
   "desc": "A breathtaking vertical shot of Lord Howe Island's rocky coastline under a clear blue sky.",
   "size": "3024x4032"
  },
- "fiord_lake": {
-  "file": "fiord_lake.jpeg",
-  "source": "Pexels",
-  "page": "https://www.pexels.com/photo/green-trees-near-lake-and-snow-covered-mountain-4863995/",
-  "artist": "Jarod Barton",
-  "license": "Pexels License",
-  "desc": "Breathtaking view of snow-capped mountains reflecting in a serene lake in Southland, New Zealand.",
-  "size": "6016x4000"
- },
  "takahe_spragg": {
   "file": "takahe_spragg.jpg",
   "source": "Flickr",
@@ -242,16 +173,6 @@
   "artist": "Tim Dawson",
   "license": "creativecommons.org/licenses/by-sa/2.0",
   "size": "1046x825",
-  "note": ""
- },
- "takahe_young": {
-  "file": "takahe_young.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/58982967@N00/96187755",
-  "title": "Young Takahe",
-  "artist": "Peter Harrison",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1000x665",
   "note": ""
  },
  "kakapo_sirocco": {
@@ -284,16 +205,6 @@
   "size": "3456x2304",
   "note": ""
  },
- "wollemi_avery": {
-  "file": "wollemi_avery.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/33590535@N06/3358388391",
-  "title": "Wollemi Pine {Wollemia Nobilis}",
-  "artist": "Drew Avery",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "3264x2448",
-  "note": ""
- },
  "wollemi_tann": {
   "file": "wollemi_tann.jpg",
   "source": "Flickr",
@@ -302,36 +213,6 @@
   "artist": "John Tann",
   "license": "creativecommons.org/licenses/by/2.0",
   "size": "3264x2448",
-  "note": ""
- },
- "wollemi_somma": {
-  "file": "wollemi_somma.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/14405058@N08/3471704811",
-  "title": "Wollemi pine, A living Fossil",
-  "artist": "Ryan Somma",
-  "license": "creativecommons.org/licenses/by-sa/2.0",
-  "size": "2048x1360",
-  "note": ""
- },
- "wollemi_cap": {
-  "file": "wollemi_cap.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/62938898@N00/2638349064",
-  "title": "\"Polar Cap\" of Wollemi pine",
-  "artist": "Tatters ✾",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "1160x948",
-  "note": ""
- },
- "wollemi_tomah": {
-  "file": "wollemi_tomah.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/15181848@N02/3460013000",
-  "title": "Wollemi Pine. Mount Tomah Botanic Garden. NSW",
-  "artist": "Amanda Slater",
-  "license": "creativecommons.org/licenses/by-sa/2.0",
-  "size": "1117x1489",
   "note": ""
  },
  "archnz_falla": {
@@ -354,26 +235,6 @@
   "size": "900x651",
   "note": ""
  },
- "archnz_unearth": {
-  "file": "archnz_unearth.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/35759981@N08/33670395536",
-  "title": "Members of the Notornis Expedition to Te Anau, unearthing relics in moa hunters' cave, Takahe Valley",
-  "artist": "Archives New Zealand",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "900x678",
-  "note": ""
- },
- "archnz_search": {
-  "file": "archnz_search.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/35759981@N08/32868711764",
-  "title": "Members of the Notornis Expedition searching for relics in moa hunters' cave in the area",
-  "artist": "Archives New Zealand",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "900x682",
-  "note": ""
- },
  "ibw_audubon": {
   "file": "ibw_audubon.jpg",
   "source": "Flickr",
@@ -384,36 +245,6 @@
   "size": "2500x3693",
   "note": ""
  },
- "ibw_museado": {
-  "file": "ibw_museado.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/200781279@N05/53903919167",
-  "title": "Ivory-billed Woodpeckers  | Joseph Bartholomew Kidd|John James Audubon 1808–1889|American (born Haiti), Les Cayes (Saint-Domingue) 1785–1851 New York",
-  "artist": "museado",
-  "license": "creativecommons.org/publicdomain/zero/1.0",
-  "size": "1756x2708",
-  "note": ""
- },
- "moa_quinet": {
-  "file": "moa_quinet.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/91994044@N00/30614684618",
-  "title": "Giant Moa skeleton",
-  "artist": "Thomas Quine",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "3648x5472",
-  "note": ""
- },
- "moa_canterbury": {
-  "file": "moa_canterbury.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/35759981@N08/9925297594",
-  "title": "Canterbury Museum",
-  "artist": "Archives New Zealand",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "9133x6110",
-  "note": ""
- },
  "moa_legbone": {
   "file": "moa_legbone.jpg",
   "source": "Flickr",
@@ -422,26 +253,6 @@
   "artist": "Merryjack",
   "license": "creativecommons.org/licenses/by/4.0",
   "size": "1268x842",
-  "note": ""
- },
- "haast_gillow": {
-  "file": "haast_gillow.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/28342603@N02/54247725195",
-  "title": "Haast Eagle",
-  "artist": "Mark Gillow",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "5117x3838",
-  "note": ""
- },
- "moa_jocey": {
-  "file": "moa_jocey.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/48627921@N05/11893692394",
-  "title": "A Moa's Skeleton",
-  "artist": "Jocelyn Kinghorn",
-  "license": "creativecommons.org/licenses/by-sa/2.0",
-  "size": "1000x669",
   "note": ""
  },
  "thyl_skull": {
@@ -492,16 +303,6 @@
   "size": "3175x1984",
   "note": ""
  },
- "bff_release": {
-  "file": "bff_release.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/51986662@N05/10596146296",
-  "title": "Black-footed Ferret Release",
-  "artist": "USFWS Mountain-Prairie",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "3872x2592",
-  "note": ""
- },
  "bff_usgs": {
   "file": "bff_usgs.jpg",
   "source": "Flickr",
@@ -510,16 +311,6 @@
   "artist": "U.S. Geological Survey",
   "license": "creativecommons.org/publicdomain/zero/1.0",
   "size": "2300x2770",
-  "note": ""
- },
- "bff_soap": {
-  "file": "bff_soap.jpg",
-  "source": "Flickr",
-  "page": "https://www.flickr.com/photos/51986662@N05/14954925767",
-  "title": "2014 Black-footed Ferret Release at Soapstone Prairie",
-  "artist": "USFWS Mountain-Prairie",
-  "license": "creativecommons.org/licenses/by/2.0",
-  "size": "3264x1836",
   "note": ""
  },
  "trailcam": {

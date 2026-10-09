@@ -40,7 +40,7 @@ body { font-family: 'NT'; color: var(--ink); -webkit-print-color-adjust: exact; 
 /* --- type --- */
 .kicker { font-family: 'Mono'; font-weight: 500; font-size: 7.4pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--rust); }
 .dark .kicker, .black .kicker { color: #e2a383; }
-.headline { font-family: 'FD Light'; font-size: 66pt; line-height: 0.93; letter-spacing: -0.015em; margin: 0; }
+.headline { font-family: 'FD Light'; font-weight: normal; font-size: 66pt; line-height: 0.93; letter-spacing: -0.015em; margin: 0; }
 .headline em { font-family: 'FD LightItalic'; font-style: normal; }
 .standfirst { font-family: 'ND'; font-size: 14.2pt; line-height: 18.6pt; margin: 0; }
 .standfirst.small { font-size: 12pt; line-height: 16pt; }
@@ -66,7 +66,7 @@ body { font-family: 'NT'; color: var(--ink); -webkit-print-color-adjust: exact; 
 .dark .flow h2 { color: #e2a383; }
 .flow p.first::first-letter { font-family: 'FD Regular'; float: left; font-size: 46pt; line-height: 38pt; padding: 3.5pt 4pt 0 0; margin-top: 0; color: var(--ink); }
 .dark .flow p.first::first-letter { color: #fff; }
-.flow .end::after, .body .end::after { content: ' \25A0'; color: var(--rust); font-size: 7pt; }
+.flow .end::after, .body .end::after { content: ''; display: inline-block; width: 4.2pt; height: 4.2pt; margin-left: 4pt; background: var(--rust); vertical-align: 0.5pt; }
 .flow p.lead { text-indent: 0; }
 .flow p.lead .sc { font-family: 'Mono'; font-size: 7.6pt; letter-spacing: 0.08em; text-transform: uppercase; }
 
@@ -89,3 +89,6 @@ body { font-family: 'NT'; color: var(--ink); -webkit-print-color-adjust: exact; 
 .flow p.dateline + p { text-indent: 0; }
 .flow h2 + p.dateline { margin-top: 0; }
 svg { display: block; }
+
+.factbox h3 i { font-weight: 400; }
+h1, h2, h3 { font-weight: normal; }

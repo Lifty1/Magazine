@@ -11,12 +11,12 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 B = 3.175            # bleed, mm
 W, HT = 210.058, 296.926  # trim, mm (8.27 x 11.69 in)
 IMG = '../assets/print/'
-DIC = pyphen.Pyphen(lang='en_GB', left=3, right=3)
+DIC = pyphen.Pyphen(lang='en_GB', left=2, right=3)
 
 # ---------------------------------------------------------------- text helpers
 def hyphenate(html):
     def fix(seg):
-        return re.sub(r"(?<![&#\w])([a-zāēīōū]{7,})", lambda m: DIC.inserted(m.group(1), hyphen='­'), seg)
+        return re.sub(r"(?<![&#\w])([a-zāēīōū]{6,})", lambda m: DIC.inserted(m.group(1), hyphen='­'), seg)
     parts = re.split(r'(<[^>]+>|&[a-z]+;)', html)
     return ''.join(p if (p.startswith('<') or p.startswith('&')) else fix(p) for p in parts)
 
