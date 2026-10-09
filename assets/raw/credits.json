@@ -58,5 +58,400 @@
   "license": "creativecommons.org/ns",
   "size": "4016x5608",
   "note": ""
+ },
+ "coel_pup": {
+  "file": "coel_pup.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/23165290@N00/6670823349",
+  "title": "coelacanth and pup - smithsonian",
+  "artist": "Tim Evanson",
+  "license": "creativecommons.org/ns",
+  "size": "1500x1000",
+  "note": ""
+ },
+ "coel_head": {
+  "file": "coel_head.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/23165290@N00/7282112134",
+  "title": "Latimeria chalumnae - coelacanth head - Smithsonian Museum of Natural History - 2012-05-17",
+  "artist": "Tim Evanson",
+  "license": "creativecommons.org/ns",
+  "size": "2000x1333",
+  "note": ""
+ },
+ "coel_plougmann": {
+  "file": "coel_plougmann.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/75062596@N00/46557705",
+  "title": "Coelacanth",
+  "artist": "Lars Plougmann",
+  "license": "creativecommons.org/ns",
+  "size": "3072x2304",
+  "note": ""
+ },
+ "balls_kav1": {
+  "file": "balls_kav1.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/63175631@N02/37050227970",
+  "title": "Ball's Pyramid",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1200x800",
+  "note": ""
+ },
+ "balls_kav2": {
+  "file": "balls_kav2.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/63175631@N02/37615054024",
+  "title": "Flesh-footed Shearwater & Ball's Pyramid",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1200x888",
+  "note": ""
+ },
+ "balls_m1": {
+  "file": "balls_m1.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/145232592@N06/30796120502",
+  "title": "Ball's Pyramid",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1280x853",
+  "note": ""
+ },
+ "balls_m2": {
+  "file": "balls_m2.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/145232592@N06/30277746374",
+  "title": "Ball's Pyramid",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1280x853",
+  "note": ""
+ },
+ "balls_m3": {
+  "file": "balls_m3.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/145232592@N06/30912137355",
+  "title": "Ball's Pyramid and Wheatsheaf Island",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1280x853",
+  "note": ""
+ },
+ "balls_1965": {
+  "file": "balls_1965.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/47945928@N02/5394172621",
+  "title": "Balls Pyramid from a boat at its base, 1965",
+  "artist": "John Game",
+  "license": "creativecommons.org/ns",
+  "size": "1008x1500",
+  "note": ""
+ },
+ "balls_sb": {
+  "file": "balls_sb.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/82727312@N00/2516876537",
+  "title": "Ball's Pyramid through the mist",
+  "artist": "Steve Bittinger",
+  "license": "creativecommons.org/ns",
+  "size": "1024x768",
+  "note": ""
+ },
+ "coel_holotype": {
+  "file": "coel_holotype.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/65695019@N07/54291264411",
+  "title": "West Indian Ocean Coelacanth (Latimeria chalumnae) holotype ...",
+  "artist": "Bernard DUPONT",
+  "license": "creativecommons.org/ns",
+  "size": "3281x1662",
+  "note": ""
+ },
+ "dusky_sound": {
+  "file": "dusky_sound.jpeg",
+  "source": "Pexels",
+  "page": "https://www.pexels.com/photo/the-calm-water-of-dusky-sound-fiord-in-new-zealand-11819607/",
+  "artist": "Liisa Tervinen",
+  "license": "Pexels License",
+  "desc": "Peaceful dawn scene in Fiordland National Park, with calm waters and mountain reflections in Southland, New Zealand.",
+  "size": "4412x6618"
+ },
+ "fiord_moody": {
+  "file": "fiord_moody.jpeg",
+  "source": "Pexels",
+  "page": "https://www.pexels.com/photo/coastal-mountains-on-a-cloudy-day-7893254/",
+  "artist": "Gilberto Olimpio",
+  "license": "Pexels License",
+  "desc": "Moody landscape of Fiordland, New Zealand with cloud-covered mountains meeting the ocean.",
+  "size": "5031x3354"
+ },
+ "manapouri_mist": {
+  "file": "manapouri_mist.jpeg",
+  "source": "Pexels",
+  "page": "https://www.pexels.com/photo/scenic-view-of-mountains-at-dawn-17824119/",
+  "artist": "Donovan Kelly",
+  "license": "Pexels License",
+  "desc": "Breathtaking view of Lake Manapouri at sunrise with misty mountains, New Zealand.",
+  "size": "4608x3072"
+ },
+ "lordhowe_aerial": {
+  "file": "lordhowe_aerial.jpeg",
+  "source": "Pexels",
+  "page": "https://www.pexels.com/photo/aerial-view-of-the-lord-howe-island-in-australia-20468153/",
+  "artist": "Jocelyn",
+  "license": "Pexels License",
+  "desc": "A breathtaking vertical shot of Lord Howe Island's rocky coastline under a clear blue sky.",
+  "size": "3024x4032"
+ },
+ "fiord_lake": {
+  "file": "fiord_lake.jpeg",
+  "source": "Pexels",
+  "page": "https://www.pexels.com/photo/green-trees-near-lake-and-snow-covered-mountain-4863995/",
+  "artist": "Jarod Barton",
+  "license": "Pexels License",
+  "desc": "Breathtaking view of snow-capped mountains reflecting in a serene lake in Southland, New Zealand.",
+  "size": "6016x4000"
+ },
+ "takahe_spragg": {
+  "file": "takahe_spragg.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/88123769@N02/8177479445",
+  "title": "South Island Takahe. (Porphyrio hochstetteri)",
+  "artist": "Bernard Spragg. NZ",
+  "license": "creativecommons.org/ns",
+  "size": "2400x1764",
+  "note": ""
+ },
+ "takahe_tewahi": {
+  "file": "takahe_tewahi.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/12597119@N03/7229164274",
+  "title": "Takahe",
+  "artist": "Harald Selke",
+  "license": "creativecommons.org/ns",
+  "size": "1886x1257",
+  "note": ""
+ },
+ "takahe_greg": {
+  "file": "takahe_greg.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/41902998@N07/4261686436",
+  "title": "Greg the Takahe",
+  "artist": "Tim Dawson",
+  "license": "creativecommons.org/ns",
+  "size": "1046x825",
+  "note": ""
+ },
+ "takahe_young": {
+  "file": "takahe_young.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/58982967@N00/96187755",
+  "title": "Young Takahe",
+  "artist": "Peter Harrison",
+  "license": "creativecommons.org/ns",
+  "size": "1000x665",
+  "note": ""
+ },
+ "kakapo_sirocco": {
+  "file": "kakapo_sirocco.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/40456023@N03/8528623525",
+  "title": "Kakapo Sirocco",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "3968x2232",
+  "note": ""
+ },
+ "nzsp_angry": {
+  "file": "nzsp_angry.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/11056712@N00/5489392277",
+  "title": "New Zealand Storm-petrel",
+  "artist": "Duncan",
+  "license": "creativecommons.org/ns",
+  "size": "2083x1375",
+  "note": ""
+ },
+ "nzsp_side": {
+  "file": "nzsp_side.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/11056712@N00/5289003026",
+  "title": "Storm-petrel side-by-side",
+  "artist": "Duncan",
+  "license": "creativecommons.org/ns",
+  "size": "3456x2304",
+  "note": ""
+ },
+ "wollemi_avery": {
+  "file": "wollemi_avery.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/33590535@N06/3358388391",
+  "title": "Wollemi Pine {Wollemia Nobilis}",
+  "artist": "Drew Avery",
+  "license": "creativecommons.org/ns",
+  "size": "3264x2448",
+  "note": ""
+ },
+ "wollemi_tann": {
+  "file": "wollemi_tann.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/31031835@N08/3124137765",
+  "title": "Wollemi pine",
+  "artist": "John Tann",
+  "license": "creativecommons.org/ns",
+  "size": "3264x2448",
+  "note": ""
+ },
+ "wollemi_somma": {
+  "file": "wollemi_somma.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/14405058@N08/3471704811",
+  "title": "Wollemi pine, A living Fossil",
+  "artist": "Ryan Somma",
+  "license": "creativecommons.org/ns",
+  "size": "2048x1360",
+  "note": ""
+ },
+ "wollemi_cap": {
+  "file": "wollemi_cap.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/62938898@N00/2638349064",
+  "title": "\"Polar Cap\" of Wollemi pine",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1160x948",
+  "note": ""
+ },
+ "wollemi_tomah": {
+  "file": "wollemi_tomah.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/15181848@N02/3460013000",
+  "title": "Wollemi Pine. Mount Tomah Botanic Garden. NSW",
+  "artist": "Amanda Slater",
+  "license": "creativecommons.org/ns",
+  "size": "1117x1489",
+  "note": ""
+ },
+ "archnz_falla": {
+  "file": "archnz_falla.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/35759981@N08/33670395086",
+  "title": "Mr. Ollinshaw and Dr. Falla (right), leader of the Expedition, examining relics found in moa hunters' cave, Takahe Valley, Te Anau",
+  "artist": "Archives New Zealand",
+  "license": "creativecommons.org/ns",
+  "size": "900x673",
+  "note": ""
+ },
+ "archnz_moabones": {
+  "file": "archnz_moabones.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/35759981@N08/32868711264",
+  "title": "Members of the Notornis Expedition examining Moa bones at the party's camp, Te Anau",
+  "artist": "Archives New Zealand",
+  "license": "creativecommons.org/ns",
+  "size": "900x651",
+  "note": ""
+ },
+ "archnz_unearth": {
+  "file": "archnz_unearth.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/35759981@N08/33670395536",
+  "title": "Members of the Notornis Expedition to Te Anau, unearthing relics in moa hunters' cave, Takahe Valley",
+  "artist": "Archives New Zealand",
+  "license": "creativecommons.org/ns",
+  "size": "900x678",
+  "note": ""
+ },
+ "archnz_search": {
+  "file": "archnz_search.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/35759981@N08/32868711764",
+  "title": "Members of the Notornis Expedition searching for relics in moa hunters' cave in the area",
+  "artist": "Archives New Zealand",
+  "license": "creativecommons.org/ns",
+  "size": "900x682",
+  "note": ""
+ },
+ "ibw_audubon": {
+  "file": "ibw_audubon.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/153584064@N07/27012398447",
+  "title": "Ivory-billed Woodpecker from Birds of America (1827) by John James Audubon (1785 - 1851), etched by Robert Havell (1793 - 1878). The original Birds of America is the most expensive printed book in the world and a truly awe-inspiring classic.",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "2500x3693",
+  "note": ""
+ },
+ "ibw_museado": {
+  "file": "ibw_museado.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/200781279@N05/53903919167",
+  "title": "Ivory-billed Woodpeckers  | Joseph Bartholomew Kidd|John James Audubon 1808–1889|American (born Haiti), Les Cayes (Saint-Domingue) 1785–1851 New York",
+  "artist": "",
+  "license": "creativecommons.org/ns",
+  "size": "1756x2708",
+  "note": ""
+ },
+ "moa_quinet": {
+  "file": "moa_quinet.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/91994044@N00/30614684618",
+  "title": "Giant Moa skeleton",
+  "artist": "Thomas Quine",
+  "license": "creativecommons.org/ns",
+  "size": "3648x5472",
+  "note": ""
+ },
+ "moa_canterbury": {
+  "file": "moa_canterbury.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/35759981@N08/9925297594",
+  "title": "Canterbury Museum",
+  "artist": "Archives New Zealand",
+  "license": "creativecommons.org/ns",
+  "size": "9133x6110",
+  "note": ""
+ },
+ "moa_legbone": {
+  "file": "moa_legbone.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/8822983@N08/8220601904",
+  "title": "Moa leg bone, Dinornithidae, Owen, 1843",
+  "artist": "Merryjack",
+  "license": "creativecommons.org/ns",
+  "size": "1268x842",
+  "note": ""
+ },
+ "haast_gillow": {
+  "file": "haast_gillow.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/28342603@N02/54247725195",
+  "title": "Haast Eagle",
+  "artist": "Mark Gillow",
+  "license": "creativecommons.org/ns",
+  "size": "5117x3838",
+  "note": ""
+ },
+ "moa_jocey": {
+  "file": "moa_jocey.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/48627921@N05/11893692394",
+  "title": "A Moa's Skeleton",
+  "artist": "Jocelyn Kinghorn",
+  "license": "creativecommons.org/ns",
+  "size": "1000x669",
+  "note": ""
+ },
+ "thyl_skull": {
+  "file": "thyl_skull.jpg",
+  "source": "Flickr",
+  "page": "https://www.flickr.com/photos/8822983@N08/8222699721",
+  "title": "Thylacine Skull. Macleay Museum, University of Sydney",
+  "artist": "Merryjack",
+  "license": "creativecommons.org/ns",
+  "size": "1268x842",
+  "note": ""
  }
 }
