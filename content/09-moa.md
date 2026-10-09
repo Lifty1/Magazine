@@ -30,11 +30,15 @@ In April 2025 the company announced the birth of three "dire wolves", Romulus, R
 
 A Colossal moa, then, would be a large flightless bird, probably built from an emu, with some moa genes, hatched from a plastic egg and raised by people. It would have no moa parents to learn from, and nothing to learn about: much of the forest it browsed has been felled or changed beyond recognition, the plants it ate have spent five hundred years evolving without it, and the eagle that hunted it is gone. The University of Otago ancient-DNA specialist Nic Rawlence, one of the project's most outspoken critics, has called it a genetically modified emu. Another Otago zoologist, Philip Seddon, said when it was announced that it had "nothing much to do with solving the global extinction crisis and more to do with generating fundraising media coverage". Colossal rejected that.
 
+> A Colossal moa would be a large flightless bird, hatched from a plastic egg and raised by people, with no moa parents to learn from.
+
 ## The case for
 
 The project's supporters have real arguments, and they deserve a hearing.
 
 Ancient genomes are scientifically valuable whatever happens next. They can tell us how many moa there were, how their populations rose and fell, how they were related, and what Aotearoa was like before people arrived. Tools developed for an impossible goal can turn out to be useful for possible ones. An artificial egg that lets you watch a chick develop, Pask argues, opens up new ways to help bird species that are struggling now. The money, too, is not being taken from the Department of Conservation; it is private money that would mostly never have gone to conservation at all. And the project, its partners say, is being steered by Māori, for whom moa are taonga, not by a lab in Texas.
+
+> Lazarus walked out of the tomb himself. He was not assembled.
 
 ## The case against
 

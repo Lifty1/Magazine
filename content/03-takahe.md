@@ -28,6 +28,14 @@ The party described the bird's warning call as sounding like someone "whistling 
 
 > Finding the bird was the easy part. What came next took fifty years, a fleet of helicopters, and a great many glove puppets.
 
+## What they found
+
+A takahē is not an elegant bird. It is a rail, a cousin of the pūkeko, but built like a squat, heavy hen: around half a metre tall, about 63 centimetres long, and weighing two and a half kilograms or more. What it lacks in grace it makes up in colour. The head, neck and breast are a deep, silky navy; the wings are peacock blue; the back shades through teal and green to olive at the tail, which is white underneath. The beak is enormous, carmine marbled with red, and runs up into a bright scarlet shield on the forehead. The legs are red too. The wings are small and useless for flying, though a takahē will sometimes flap them to help itself up a slope.
+
+It lives on grass. In summer it stays up in the alpine tussock, plucking a stalk, holding it in one foot like a man with a stick of celery, eating the soft lower part and dropping the rest. When the snow comes, it walks down into the forest and scrub. Pairs stay together for years, probably for life, and defend their territory; they build a bulky nest under the bushes and lay one to three buff-coloured eggs.
+
+It once had a relative in the North Island, a taller, slimmer bird that Māori called moho. The moho is known only from bones.
+
 ## The long middle
 
 What happened next is the half of the story that usually gets left out, and it is the more useful half.

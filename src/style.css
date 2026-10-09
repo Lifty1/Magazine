@@ -1,0 +1,91 @@
+/* LAZARUS — print stylesheet. Page = A4 trim (8.27 x 11.69 in) + 0.125 in bleed each side. */
+@font-face { font-family: 'FD Light'; src: url('../fonts/static/FrauncesDisplay-Light.ttf'); }
+@font-face { font-family: 'FD Regular'; src: url('../fonts/static/FrauncesDisplay-Regular.ttf'); }
+@font-face { font-family: 'FD SemiBold'; src: url('../fonts/static/FrauncesDisplay-SemiBold.ttf'); }
+@font-face { font-family: 'FD Black'; src: url('../fonts/static/FrauncesDisplay-Black.ttf'); }
+@font-face { font-family: 'FD LightItalic'; src: url('../fonts/static/FrauncesDisplay-LightItalic.ttf'); }
+@font-face { font-family: 'FD Italic'; src: url('../fonts/static/FrauncesDisplay-RegularItalic.ttf'); }
+@font-face { font-family: 'FT SemiBold'; src: url('../fonts/static/FrauncesText-SemiBold.ttf'); }
+@font-face { font-family: 'FT Regular'; src: url('../fonts/static/FrauncesText-Regular.ttf'); }
+@font-face { font-family: 'FT Italic'; src: url('../fonts/static/FrauncesText-Italic.ttf'); }
+@font-face { font-family: 'NT'; src: url('../fonts/static/Newsreader-Regular.ttf'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'NT'; src: url('../fonts/static/Newsreader-Italic.ttf'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'NT'; src: url('../fonts/static/Newsreader-SemiBold.ttf'); font-weight: 600; font-style: normal; }
+@font-face { font-family: 'NT'; src: url('../fonts/static/Newsreader-SemiBoldItalic.ttf'); font-weight: 600; font-style: italic; }
+@font-face { font-family: 'ND'; src: url('../fonts/static/NewsreaderDeck-Light.ttf'); font-style: normal; }
+@font-face { font-family: 'ND'; src: url('../fonts/static/NewsreaderDeck-LightItalic.ttf'); font-style: italic; }
+@font-face { font-family: 'Mono'; src: url('../fonts/static/IBMPlexMono-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Mono'; src: url('../fonts/static/IBMPlexMono-Italic.ttf'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Mono'; src: url('../fonts/static/IBMPlexMono-Medium.ttf'); font-weight: 500; }
+@font-face { font-family: 'Mono'; src: url('../fonts/static/IBMPlexMono-SemiBold.ttf'); font-weight: 600; }
+
+:root {
+  --ink: #17191a; --muted: #6d6a62; --paper: #f4eee3; --rust: #b0452a; --deep: #0f2427;
+  --teal: #2a5f66; --rule: #c9c1b2; --white: #ffffff;
+}
+@page { size: 8.52in 11.94in; margin: 0; }
+html, body { margin: 0; padding: 0; background: #888; }
+* { box-sizing: border-box; }
+body { font-family: 'NT'; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; font-kerning: normal; font-variant-ligatures: common-ligatures; }
+
+.page { width: 8.52in; height: 11.94in; position: relative; overflow: hidden; background: var(--white); break-after: page; page-break-after: always; }
+.page.paper { background: var(--paper); }
+.page.dark { background: var(--deep); color: #ece6da; }
+.page.black { background: #101112; color: #ece6da; }
+.trim { position: absolute; left: 0.125in; top: 0.125in; width: 8.27in; height: 11.69in; }
+.box { position: absolute; }
+.img { position: absolute; overflow: hidden; }
+.img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* --- type --- */
+.kicker { font-family: 'Mono'; font-weight: 500; font-size: 7.4pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--rust); }
+.dark .kicker, .black .kicker { color: #e2a383; }
+.headline { font-family: 'FD Light'; font-size: 66pt; line-height: 0.93; letter-spacing: -0.015em; margin: 0; }
+.headline em { font-family: 'FD LightItalic'; font-style: normal; }
+.standfirst { font-family: 'ND'; font-size: 14.2pt; line-height: 18.6pt; margin: 0; }
+.standfirst.small { font-size: 12pt; line-height: 16pt; }
+.caption { font-family: 'Mono'; font-size: 6.5pt; line-height: 8.9pt; color: var(--muted); }
+.caption b { font-weight: 600; color: var(--ink); }
+.dark .caption, .black .caption, .caption.light { color: #c9c2b4; }
+.dark .caption b, .black .caption b, .caption.light b { color: #fff; }
+.credit { font-family: 'Mono'; font-size: 5.6pt; letter-spacing: 0.02em; color: var(--muted); }
+.folio { font-family: 'Mono'; font-size: 6.6pt; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.folio .pn { color: var(--ink); font-weight: 600; }
+.dark .folio .pn, .black .folio .pn, .folio.light .pn { color: #fff; }
+.folio.light { color: #d9d2c4; }
+
+/* --- body copy (threaded frames) --- */
+.flow { position: absolute; overflow: hidden; }
+.flow p, .body p { font-size: 9.25pt; line-height: 13pt; margin: 0; text-align: justify; text-indent: 1.1em; hyphens: manual; orphans: 1; widows: 1; }
+.flow p.first, .flow p.cont, .flow h2 + p, .flow p.noindent, .body p.first, .body h2 + p { text-indent: 0; }
+.flow p.split { text-align-last: justify; }
+.flow p em, .body p em { font-style: italic; }
+.flow p strong, .body p strong { font-weight: 600; }
+.flow h2, .body h2 { font-family: 'FT SemiBold'; font-weight: normal; font-size: 10.6pt; line-height: 13pt; color: var(--rust); margin: 13pt 0 3pt 0; letter-spacing: 0.005em; }
+.flow > h2:first-child { margin-top: 0; }
+.dark .flow h2 { color: #e2a383; }
+.flow p.first::first-letter { font-family: 'FD Regular'; float: left; font-size: 46pt; line-height: 38pt; padding: 3.5pt 4pt 0 0; margin-top: 0; color: var(--ink); }
+.dark .flow p.first::first-letter { color: #fff; }
+.flow .end::after, .body .end::after { content: ' \25A0'; color: var(--rust); font-size: 7pt; }
+.flow p.lead { text-indent: 0; }
+.flow p.lead .sc { font-family: 'Mono'; font-size: 7.6pt; letter-spacing: 0.08em; text-transform: uppercase; }
+
+.pull { font-family: 'FD LightItalic'; font-size: 20pt; line-height: 23.5pt; color: var(--ink); }
+.pull::before { content: ''; display: block; width: 14mm; height: 1.2pt; background: var(--rust); margin-bottom: 8pt; }
+.dark .pull { color: #fff; }
+.rule-top { border-top: 0.6pt solid var(--rule); }
+
+/* --- misc components --- */
+.factbox { background: var(--paper); padding: 5mm; }
+.factbox h3 { font-family: 'Mono'; font-weight: 600; font-size: 7pt; letter-spacing: 0.14em; text-transform: uppercase; margin: 0 0 3mm 0; color: var(--rust); }
+.factbox .row { display: flex; gap: 3mm; border-top: 0.5pt solid var(--rule); padding: 2mm 0; font-size: 8.4pt; line-height: 11pt; }
+.factbox .row .y { font-family: 'Mono'; font-weight: 600; font-size: 7.6pt; min-width: 11mm; }
+.bignum { font-family: 'FD Light'; line-height: 0.85; letter-spacing: -0.03em; }
+.mono { font-family: 'Mono'; }
+.big .flow p { font-size: 10.6pt; line-height: 15.2pt; }
+.dark.big .flow p { font-size: 11.2pt; line-height: 16.4pt; }
+.flow p.dateline { font-family: 'Mono'; font-size: 7pt; line-height: 10pt; letter-spacing: 0.04em; text-indent: 0; text-align: left; margin: 1pt 0 3pt; color: var(--muted); }
+.flow p.dateline strong { font-family: 'FT SemiBold'; font-weight: normal; font-size: 10pt; letter-spacing: 0; color: var(--ink); display: block; line-height: 12.5pt; }
+.flow p.dateline + p { text-indent: 0; }
+.flow h2 + p.dateline { margin-top: 0; }
+svg { display: block; }

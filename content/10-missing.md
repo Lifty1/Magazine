@@ -26,6 +26,8 @@ Its record is a perfect illustration of how hard it is to declare something gone
 
 Reports keep coming: from the Heaphy Track, from the Old Ghost Road, from the bush near Tuatapere, where a hunter heard a strange call and saw a large grey bird on New Year's Day 2024. A feather found in 1995 and long argued over was retested in 2025 and confirmed, again, to belong to a blackbird. The South Island Kōkako Trust offers a reward of $10,000 for evidence a panel of ornithologists will accept, and it is clear about what that means: a photograph or a feather, not a story.
 
+> It may be the only bird in the world whose status is, technically, pending.
+
 ## The thylacine
 
 **Last known: 7 September 1936, Hobart**
