@@ -20,7 +20,7 @@ LIC = {
 NAMES = {'Bernard DUPONT': 'Bernard Dupont', 'Bernard Spragg. NZ': 'Bernard Spragg', 'Duncan': 'Duncan (angrysunbird)',
          'patrickkavanagh': 'Patrick Kavanagh', 'Merryjack': 'JC Merriman', 'Free Public Domain Illustrations by rawpixel': 'John James Audubon (via rawpixel)',
          'National Library NZ on The Commons': 'J. G. Keulemans, from W. L. Buller, A History of the Birds of New Zealand (1888); National Library of New Zealand',
-         'Department of Conservation': 'NZ Department of Conservation', 'USFWS Mountain-Prairie': 'US Fish and Wildlife Service, Mountain-Prairie Region',
+         'Department of Conservation': 'NZ Department of Conservation', 'Public domain': 'Public domain', 'USFWS Mountain-Prairie': 'US Fish and Wildlife Service, Mountain-Prairie Region',
          'U.S. Geological Survey': 'US Geological Survey', 'Festive Coquette': 'Festive Coquette', 'n88n88': 'n88n88'}
 
 def credits_html():

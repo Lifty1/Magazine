@@ -321,5 +321,16 @@
   "license": "Pexels License",
   "desc": "A forest camera is mounted on a tree in Jasper, Canada, surrounded by lush greenery.",
   "size": "8192x5464"
+ },
+ "courtenay_latimer": {
+  "file": "courtenay_latimer.jpg",
+  "source": "File:Marjorie Courtenay-Latimer and Coelacanth.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMarjorie_Courtenay-Latimer_and_Coelacanth.jpg",
+  "artist": "Photographer unknown, via the South African Institute for Aquatic Biodiversity",
+  "credit": "A Christmas Story: 22 December 1938. The South African Institute for Aquatic Biodiversity. Archived from the original on 2013-06-03. Retrieved on 2020-05-01.",
+  "license": "Public domain",
+  "license_url": "",
+  "desc": "Marjorie Courtenay-Latimer and coelacanth after its discovery",
+  "size": "745x506"
  }
 }

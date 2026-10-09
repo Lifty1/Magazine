@@ -142,8 +142,12 @@ def build_pages(g):
     folio(p, 'Coelacanth')
     p = P(13)
     xs, w = colx('right', 3)
-    p.add(img(xs[1], TOP, 2 * w + 5, 82, pic('courtenay_latimer', 'coel_head'), '50% 40%'))
-    p.add(cap(xs[1], 102, 2 * w + 5, 10, '<b>Head of a coelacanth,</b> Smithsonian National Museum of Natural History. Photograph: Tim Evanson.' if not have('courtenay_latimer') else '<b>Marjorie Courtenay-Latimer</b> with the coelacanth, East London, 1938.'))
+    if have('courtenay_latimer'):
+        p.add(img(xs[1], TOP, 95, 64.6, 'courtenay_latimer', '50% 50%'))
+        p.add(cap(xs[1], 85, 2 * w + 5, 14, '<b>Marjorie Courtenay-Latimer with the mounted coelacanth.</b> Photographer unknown; South African Institute for Aquatic Biodiversity.'))
+    else:
+        p.add(img(xs[1], TOP, 2 * w + 5, 82, 'coel_head', '50% 40%'))
+        p.add(cap(xs[1], 102, 2 * w + 5, 10, '<b>Head of a coelacanth,</b> Smithsonian National Museum of Natural History. Photograph: Tim Evanson.'))
     p.add(flow('coel', xs[0], TOP, w, BOT - TOP))
     pull(p, 'coel', 0, xs[1], 116, 2 * w + 5, 38, size=19)
     p.add(flow('coel', xs[1], 158, w, BOT - 158)); p.add(flow('coel', xs[2], 158, w, BOT - 158))

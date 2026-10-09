@@ -89,7 +89,7 @@ Names considered: *Presumed* (good, but reads as an adjective in search of a nou
 
 - **Why no generated images:** this is a nonfiction natural-history magazine. A generated takahē or coelacanth would be a fake specimen, subtly wrong anatomically and impossible to caption honestly. The real archive (Keulemans' 1888 lithographs, museum specimens, field photographs) is more beautiful and true.
 - **Sources used:** National Library of New Zealand (Buller/Keulemans plates, "no known copyright restrictions"), Flickr originals under CC BY / BY-SA / CC0 (found via Openverse), Pexels (landscapes), Wellcome Collection (the 1877 Owen and moa photograph), Archives New Zealand (1949 Notornis Expedition), US Fish and Wildlife Service and USGS (ferrets).
-- **Wikimedia Commons** was the first choice, but it rate-limited this machine's shared IP (HTTP 429) for the whole session. I didn't try to evade the limit. Most Commons photos originate on Flickr, so I fetched originals there instead. Images that existed only on Commons were dropped: the stick-insect portraits, the 1938 photo of Courtenay-Latimer with the fish, the 1933 thylacine photo. Te Papa's API was unreachable (502).
+- **Wikimedia Commons** was the first choice, but it rate-limited this machine's shared IP (HTTP 429) for the whole session. I didn't try to evade the limit. Most Commons photos originate on Flickr, so I fetched originals there instead. Images that existed only on Commons were mostly dropped (the stick-insect portraits, the 1933 thylacine photo). A slow background downloader that respected the limits eventually got one through, the public-domain photo of Marjorie Courtenay-Latimer with the mounted coelacanth, and it was added to page 13 at 199 ppi. Te Papa's API was unreachable (502).
 - **Resolution:** every placed image was measured at render time. Anything printing below ~190 ppi was resized or moved (Ball's Pyramid went from a full-width bleed at 143 ppi to an inset at 265 ppi). The lowest in the final file is 193 ppi, a photograph that will print acceptably on Lulu's digital press.
 
 ## 6. Design
@@ -113,5 +113,5 @@ Names considered: *Presumed* (good, but reads as an adjective in search of a nou
 ## 9. Known limitations
 
 - The independent model fact-check covered only the editor's letter before the OpenRouter credit ran out. The rest was double-checked by me against sources, not by a second model.
-- A few Commons-only images could not be obtained because of the rate limit (see §5); the layouts use the best available alternatives.
+- A few Commons-only images could not be obtained because of the rate limit (see §5); the layouts use the best available alternatives. The background downloader also overwrote the image-credits file with a stale copy before it stopped. This was caught when the cover build failed and fixed by restoring the committed version.
 - I could not see a physical proof. Colour on Lulu's press will be somewhat less saturated than on screen, especially in the dark spreads.
